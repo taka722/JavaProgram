@@ -38,13 +38,14 @@ The enhanced version builds upon the default game by adding error handling, cust
 ・ The game can now support more than two players. Each player will have a unique character to mark their cells.
 
 ###  How to Play:
-#### 1. Start the game.
+#### Execute this program 
 ```
 cw-oxo % ./mvnw clean compile
 ```
 ```
 cw-oxo % ./mvnw exec:java
 ```
+1. Start the game.
 2. Players take turns in sequence.
 3. Input the cell identifier (e.g., A1, B2) where you want to place your mark.
 4. Use the + and - keys during the game to adjust the win threshold as desired.
