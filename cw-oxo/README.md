@@ -8,7 +8,7 @@ The default game is a 3x3 grid where two players, O and X, take turns to mark a 
 
 ### How to Play:
 1. Start the game.
-2. Player O goes first, followed by Player X.
+2. Player X goes first, followed by Player O.
 3. Input the cell identifier (e.g., A1, B2) where you want to place your mark.
 4. The game ends when one player has 3 marks in a row or all cells are filled (a draw).
 
