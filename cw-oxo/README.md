@@ -16,3 +16,9 @@ This project is a Java-based GUI implementation of the classic Tic-Tac-Toe (OXO)
 ・ Java JDK (Version 11 or newer)
 
 ・ An Integrated Development Environment (IDE) like IntelliJ IDEA or Eclipse (Optional, but recommended)
+
+## Usage 
+1. Start the game using the steps mentioned above.
+2. Players will enter their moves in the format a1 where a represents the row (a-i) and 1 represents the column (1-9).
+3. The game will rotate turns among players and notify if a player wins or if the game ends in a draw.
+4. Adjust game settings such as grid size and win threshold as desired.
