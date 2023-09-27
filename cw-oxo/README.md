@@ -45,11 +45,13 @@ cw-oxo % ./mvnw clean compile
 ```
 cw-oxo % ./mvnw exec:java
 ```
+
 <p align="center">
-  <a href="[https://youtu.be/your-video-link](https://github.com/taka722/JavaProgram/assets/98585910/2ae098c9-24d8-4e4b-9f8e-7715a7d9c4aa)">
+  <a href="https://github.com/taka722/JavaProgram/assets/98585910/2ae098c9-24d8-4e4b-9f8e-7715a7d9c4aa">
     <img src="https://img.youtube.com/vi/your-video-id/maxresdefault.jpg" alt="IMAGE ALT TEXT">
   </a>
 </p>
+
 
 https://github.com/taka722/JavaProgram/assets/98585910/2ae098c9-24d8-4e4b-9f8e-7715a7d9c4aa
 
