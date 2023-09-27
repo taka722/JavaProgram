@@ -10,3 +10,9 @@ This project is a Java-based GUI implementation of the classic Tic-Tac-Toe (OXO)
 ・　Adjustable Win Threshold: Increase or decrease the required consecutive marks to win using specific key inputs.
 
 ・　Robust Error Handling: The game provides feedback on invalid moves or commands.
+
+## Getting Started
+### Prerequisites
+・ Java JDK (Version 11 or newer)
+
+・ An Integrated Development Environment (IDE) like IntelliJ IDEA or Eclipse (Optional, but recommended)
