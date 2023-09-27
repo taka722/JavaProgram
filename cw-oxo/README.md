@@ -47,10 +47,8 @@ cw-oxo % ./mvnw exec:java
 ```
 
 <p align="center">
-  <a href="https://github.com/taka722/JavaProgram/assets/98585910/2ae098c9-24d8-4e4b-9f8e-7715a7d9c4aa">
-  </a>
+https://github.com/taka722/JavaProgram/assets/98585910/2ae098c9-24d8-4e4b-9f8e-7715a7d9c4aa
 </p>
-
 https://github.com/taka722/JavaProgram/assets/98585910/2ae098c9-24d8-4e4b-9f8e-7715a7d9c4aa
 
 
