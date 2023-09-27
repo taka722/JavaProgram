@@ -2,26 +2,46 @@
 ## Introduction
 This project is a Java-based GUI implementation of the classic Tic-Tac-Toe (OXO) game using Java's AWT library. It incorporates functionalities such as dynamic resizing of the game board and modifying the win threshold.
 
-## Features
-・　Graphical User Interface: A GUI based on Java's Abstract Window Toolkit (AWT) for intuitive gameplay.
+## Default OXO Game
+### Description:
+The default game is a 3x3 grid where two players, O and X, take turns to mark a cell. The first player to get 3 of their marks in a row (horizontally, vertically, or diagonally) wins.
 
-・　Dynamic Board Resizing: Adjust the board's rows and columns using mouse actions.
+### How to Play:
+1. Start the game.
+2. Player O goes first, followed by Player X.
+3. Input the cell identifier (e.g., A1, B2) where you want to place your mark.
+4. The game ends when one player has 3 marks in a row or all cells are filled (a draw).
 
-・　Adjustable Win Threshold: Increase or decrease the required consecutive marks to win using specific key inputs.
+## Enhanced OXO Game
+### Description:
+The enhanced version builds upon the default game by adding error handling, customizable win thresholds, support for more players, and other advanced features.
 
-・　Robust Error Handling: The game provides feedback on invalid moves or commands.
+### New Features:
+#### 1. Error Handling:
+・ Invalid Identifier Length: The cell identifier is not two characters.
 
-## Getting Started
-### Prerequisites
-・ Java JDK (Version 11 or newer)
+・ Invalid Identifier Character: The row isn't a letter or the column isn't a digit.
 
-・ An Integrated Development Environment (IDE) like IntelliJ IDEA or Eclipse (Optional, but recommended)
+・ Outside Range: The identifiers are valid, but they're out of range.
 
-## Usage 
-1. Start the game using the steps mentioned above.
-2. Players will enter their moves in the format a1 where a represents the row (a-i) and 1 represents the column (1-9).
-3. The game will rotate turns among players and notify if a player wins or if the game ends in a draw.
-4. Adjust game settings such as grid size and win threshold as desired.
+・ Already Taken: The cell is already claimed by a player.
+
+#### 2. Win Threshold Customization:
+・ Press + to increase the win threshold.
+
+・ Press - to decrease the win threshold.
+
+#### 3. Support for Multiple Players:
+・ The game can now support more than two players. Each player will have a unique character to mark their cells.
+
+###  How to Play:
+1. Start the game.
+2. Players take turns in sequence.
+3. Input the cell identifier (e.g., A1, B2) where you want to place your mark.
+4. Use the + and - keys during the game to adjust the win threshold as desired.
+5. The game ends when one player meets the current win threshold or all cells are filled (a draw).
+### Testing:
+Automated tests have been provided to validate the functionality of both versions of the game. These tests check for basic gameplay, error handling, and other game rules.
 
 ## Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you'd like to change.
