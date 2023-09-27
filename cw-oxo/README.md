@@ -45,6 +45,11 @@ cw-oxo % ./mvnw clean compile
 ```
 cw-oxo % ./mvnw exec:java
 ```
+
+
+Uploading Screen Recording 2023-09-27 at 17.07.55.mov…
+
+
 1. Start the game.
 2. Players take turns in sequence.
 3. Input the cell identifier (e.g., A1, B2) where you want to place your mark.
