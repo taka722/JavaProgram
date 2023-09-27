@@ -31,7 +31,10 @@ The enhanced version builds upon the default game by adding error handling, cust
 
 ・ Press - to decrease the win threshold.
 
-#### 3. Support for Multiple Players:
+### 3. Dynamic Board Resizing: 
+・ Adjust the board's rows and columns using mouse actions.
+
+#### 4. Support for Multiple Players:
 ・ The game can now support more than two players. Each player will have a unique character to mark their cells.
 
 ###  How to Play:
@@ -39,7 +42,8 @@ The enhanced version builds upon the default game by adding error handling, cust
 2. Players take turns in sequence.
 3. Input the cell identifier (e.g., A1, B2) where you want to place your mark.
 4. Use the + and - keys during the game to adjust the win threshold as desired.
-5. The game ends when one player meets the current win threshold or all cells are filled (a draw).
+5. Use the cursor　to add or remove a column or row.
+6. The game ends when one player meets the current win threshold or all cells are filled (a draw).
 ### Testing:
 Automated tests have been provided to validate the functionality of both versions of the game. These tests check for basic gameplay, error handling, and other game rules.
 
