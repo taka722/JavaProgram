@@ -47,7 +47,7 @@ cw-oxo % ./mvnw exec:java
 ```
 
 
-Uploading Screen Recording 2023-09-27 at 17.07.55.mov…
+
 
 
 1. Start the game.
