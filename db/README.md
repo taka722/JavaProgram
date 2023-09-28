@@ -39,4 +39,5 @@ Now, You can see this screen in the following:
 SQL:> 
 ```
 
+And you can type SQL command from here. 
 
