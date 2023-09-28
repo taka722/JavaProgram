@@ -2,7 +2,7 @@
 This project entails the construction of a relational database server from the ground up. It offers hands-on experience with Java programming, query language operations, and database persistence.
 
 ## Project File Description 
-- DBSlient.java - Where all of the search algorithms reside
+- DBSlient.java - It interacts with a local database server on port 8888, sending SQL commands and displaying server responses.
 - DBServer.java 
 - DBTColumn.java
 - DBTRow.java
