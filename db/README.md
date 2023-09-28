@@ -5,7 +5,7 @@ This project entails the construction of a relational database server from the g
 - DBSlient.java - It interacts with a local database server on port 8888, sending SQL commands and displaying server responses.
 - DBServer.java - It handles basic database commands and operations.
 - DBTColumn.java - It represents a database table column with a name and data, providing methods to manage and access its contents.
-- DBTRow.java
+- DBTRow.java - It represents a database table row with an array of values, offering methods for value management and retrieval.
 - Database.java
 - Index.java
 - rex.java 
