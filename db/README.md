@@ -2,7 +2,7 @@
 This project entails the construction of a relational database server from the ground up. It offers hands-on experience with Java programming, query language operations, and database persistence.
 
 ## Project File Description 
-#### ・　DBClient.java 
+- DBSlient.java
 - 
 ・　DBServer.java 
 
