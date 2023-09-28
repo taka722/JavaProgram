@@ -3,7 +3,7 @@ This project entails the construction of a relational database server from the g
 
 ## Project File Description 
 - DBSlient.java - It interacts with a local database server on port 8888, sending SQL commands and displaying server responses.
-- DBServer.java 
+- DBServer.java - This class handles basic database commands and operations such as creating databases, tables, inserting data, and more. The server is designed to listen to incoming commands and execute them, returning the appropriate responses.
 - DBTColumn.java
 - DBTRow.java
 - Database.java
