@@ -38,6 +38,34 @@ Now, You can see this screen in the following:
 ```
 SQL:> 
 ```
+You need to set up the database and table. Here is an example.  
+```
+SQL:>  CREATE DATABASE name of database;
+```
+```
+SQL:>  USE name of database;
+```
+```
+SQL:>  CREATE TABLE name of table (components);
+```
+```
+SQL:>  INSERT INTO name of table VALUES (actual values for components);
+```
+```
+SQL:> SELECT * FROM name of table;
+```
+```
+SQL:> JOIN table1 AND table2 ON ref1 AND ref2;
+```
+```
+SQL:> UPDATE table1 SET component1 = value WHERE component2 == ' ';
+```
+```
+SQL:> DELETE FROM table WHERE component == 'value'; 
+```
 
-And you can type SQL command from here. 
+These are the example SQL commands that you can try in this system. 
+
+
+
 
