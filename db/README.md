@@ -6,7 +6,7 @@ This project entails the construction of a relational database server from the g
 - DBServer.java - It handles basic database commands and operations.
 - DBTColumn.java - It represents a database table column with a name and data, providing methods to manage and access its contents.
 - DBTRow.java - It represents a database table row with an array of values, offering methods for value management and retrieval.
-- Database.java
+- Database.java - It represents a database with a name and a list of tables, providing methods to manage these tables.
 - Index.java
 - rex.java 
 
