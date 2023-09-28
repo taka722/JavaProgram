@@ -2,19 +2,14 @@
 This project entails the construction of a relational database server from the ground up. It offers hands-on experience with Java programming, query language operations, and database persistence.
 
 ## Project File Description 
-- DBSlient.java
-- 
-・　DBServer.java 
+- DBSlient.java - Where all of the search algorithms reside
+- DBServer.java 
+- DBTColumn.java
+- DBTRow.java
+- Database.java
+- Index.java
+- rex.java 
 
-・　DBTColumn.java 
-
-・　DBTRow.java 
-
-・　Database.java 
-
-・　Index.java 
-
-・　rex.java 
 
 
 
