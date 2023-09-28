@@ -8,7 +8,8 @@ This project entails the construction of a relational database server from the g
 - DBTRow.java - It represents a database table row with an array of values, offering methods for value management and retrieval.
 - Database.java - It represents a database with a name and a list of tables, providing methods to manage these tables.
 - Index.java - It manages a mapping of table names to integer indices using a hashmap. 
-- rex.java - It provides utility methods for parsing and evaluating SQL-like conditional statements using regular expressions.
+- rex.java - It provides utility methods for parsing and evaluating SQL-like conditional statements using regular expressions. (No Need)
+  
 
 
 
