@@ -45,3 +45,5 @@ You are able to use the following commands:
 - "drop": puts down an artefact from player's inventory and places it into the current location
 - "goto": moves the player to the specified location (if there is a path to that location)
 - "look": prints names and descriptions of entities in the current location and lists paths to other locations
+
+You can check other possible commands at extended entities and extended actions file in the stag/config. 
