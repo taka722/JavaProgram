@@ -25,4 +25,14 @@ The server listens for incoming client connections, processes commands, manages 
 
 - **Location.java** -  Extending GameEntity, models a location within the game, consisting of available paths, characters, artefacts, and furniture, alongside functionalities to manage these entities within the location.
 
-
+## Getting Started
+You are able to start the game by typing the following commands in the command line:
+```
+cw-stag $ ./mvnw clean compile
+```
+```
+cw-stag $ ./mvnw exec:java@server
+```
+```
+cw-stag $ ./mvnw exec:java@client -Dexec.args= "your name"
+```
