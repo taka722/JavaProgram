@@ -5,9 +5,10 @@ This game engine server is designed to communicate with game clients to play any
 The server listens for incoming client connections, processes commands, manages game state, and sends responses back to the clients.
 
 ## Project File Description  
-- GameClient.java - Managing a game's state, processing commands from players, and interacting with game configurations(Graphviz and XML formats).
+- GameClient.java - Allows users to input game commands and communicates with a game server on localhost at port 8888, displaying server responses to the user.
   
-- GameServer.java - 
+- GameServer.java - Managing a game's state, processing commands from players, and interacting with game configurations(Graphviz and XML formats).
+  
 - GameAction.java
 - GameEntity.java
 - Artefact.java
