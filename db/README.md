@@ -75,6 +75,7 @@ SQL:> DELETE FROM table WHERE component == 'value';
 
 These are the example SQL commands that you can try in this system. 
 
-
+## Contributing
+Pull requests are welcome! For major changes, please open an issue first to discuss what you'd like to change.
 
 
