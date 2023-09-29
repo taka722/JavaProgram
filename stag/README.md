@@ -36,3 +36,7 @@ stag $ ./mvnw exec:java@server
 ```
 stag $ ./mvnw exec:java@client -Dexec.args= "your name"
 ```
+
+## How to Play
+You are able to use the commands followed: 
+
