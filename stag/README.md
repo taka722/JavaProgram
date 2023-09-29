@@ -38,5 +38,10 @@ stag $ ./mvnw exec:java@client -Dexec.args= "your name"
 ```
 
 ## How to Play
-You are able to use the commands followed: 
+You are able to use the following commands: 
 
+- "inventory" (or "inv" for short): lists all of the artefacts currently being carried by the player
+- "get": picks up a specified artefact from the current location and adds it into player's inventory
+- "drop": puts down an artefact from player's inventory and places it into the current location
+- "goto": moves the player to the specified location (if there is a path to that location)
+- "look": prints names and descriptions of entities in the current location and lists paths to other locations
