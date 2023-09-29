@@ -11,8 +11,10 @@ The server listens for incoming client connections, processes commands, manages 
 - GameServer.java - Managing a game's state, processing commands from players, and interacting with game configurations(Graphviz and 
                     XML formats).
   
-- GameAction.java
-- GameEntity.java
+- GameAction.java - It represents an action within a game, encompassing verb phrases, subject phrases, entities used and produced by 
+                    the action, and a narration describing the action's outcome.
+  
+- GameEntity.java - 
 - Artefact.java
 - Character.java
 - GameState.java
