@@ -6,10 +6,10 @@ The server listens for incoming client connections, processes commands, manages 
 
 ## Project File Description  
 - GameClient.java - Allows users to input game commands and communicates with a game server on localhost at port 8888, displaying 
-  server responses to the user.
+                    server responses to the user.
   
 - GameServer.java - Managing a game's state, processing commands from players, and interacting with game configurations(Graphviz and 
-  XML formats).
+                    XML formats).
   
 - GameAction.java
 - GameEntity.java
