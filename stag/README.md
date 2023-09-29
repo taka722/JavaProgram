@@ -47,3 +47,6 @@ You are able to use the following commands:
 - "look": prints names and descriptions of entities in the current location and lists paths to other locations
 
 You can check other possible commands at extended entities and extended actions file in the stag/config. 
+
+## Contributing
+Pull requests are welcome! For major changes, please open an issue first to discuss what you'd like to change.
